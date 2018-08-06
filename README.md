@@ -1,14 +1,12 @@
 # CppTemplate
-Standardized folder structure for C++ class
+Standardized folder structure for COMP 3200: Unmanaged Programming in C++ class at POCU
 
 # Tools You Need
 1. Windows OS
-	1. You can get a copy from MS Imagine
-	1. Or use a school computer
-1. a Git client. (I recommend SourceTree)
+1. a Git client. (SourceTree Recommended)
 1. Visual Studio 2017 (NOT Visual Studio Code)
 	1. **IMPORTANT**: Select `Desktop development with C++` during installation
-	1. Any edition is fine. (But you get enterprise edition from MS Imagine)
+	1. Any edition is fine.
 1. Slack
 
 # Instructions
