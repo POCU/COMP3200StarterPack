@@ -1,4 +1,4 @@
-# CppTemplate
+# COMP3200 Starter Pack
 Standardized folder structure for COMP 3200: Unmanaged Programming in C++ class at POCU
 
 # Tools You Need
