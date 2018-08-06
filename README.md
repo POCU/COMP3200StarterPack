@@ -19,8 +19,3 @@ Standardized folder structure for COMP 3200: Unmanaged Programming in C++ class 
 	* `Release` build will be used for marking
 * Once you are happy with the result, Add/Commit/Push to your own repo and request a build on Slack
 * You will get the result and feedback right away on Slack
-
-# WARNING
-* Always use existing *.sln files for your assignment and labs 
-	* i.e do not recreate or rename `*.sln` and `*.vcxproj` files
-	* Failure to do so will result in 0 mark
