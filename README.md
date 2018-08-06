@@ -19,7 +19,7 @@ Alternatively, you can choose any environment and tools you want to develop and 
 1. Any OS that has a C++ compiler
 1. A C++ compiler, such as g++.
 
-# Instructions
+## How to Submit Your Work
 * Create your own repo as instructed in Lab 1
 * Copy this starter pack into your own repo
 * Add/Commit/Push to your own repo
