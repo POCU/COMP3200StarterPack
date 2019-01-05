@@ -27,7 +27,7 @@ Alternatively, you can choose any environment and tools you want to develop and 
 * Open the solution for the lab or assignment you want to work on in VS 2017
 	* if you are not using VS 2017, you can modify .cpp and .h in any editor
 * Add *.cpp and *.h files in the project freely
-* Make sure your `Release` build works fine as well
-	* `Release` build will be used for marking
+* Make sure both `Debug` and `Release` build work fine
+	* both builds will be used for marking
 * Once you are happy with the result, Add/Commit/Push to your own repo and request a build on Slack
 * You will get the result and feedback right away on Slack
