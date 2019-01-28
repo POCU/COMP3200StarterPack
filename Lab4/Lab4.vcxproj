@@ -12,7 +12,7 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{8290D22B-E270-4F08-A2BA-FFCB4E53DF33}</ProjectGuid>
+    <ProjectGuid>{8D92DCD9-6A4C-4448-AE39-7E439D26A6EB}</ProjectGuid>
     <RootNamespace>Lab4</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition="'$(WindowsTargetPlatformVersion)'==''">
